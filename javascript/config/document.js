@@ -25,9 +25,5 @@ var navigation = [
   {
     name: 'License',
     url: 'license.html'
-  },
-  {
-    name: 'あかさn',
-    url: 'test.html'
   }
 ];
