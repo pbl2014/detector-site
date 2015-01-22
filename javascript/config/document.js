@@ -1,8 +1,8 @@
 var RELATIVE_PATH = './../';
 
 var loadList = {
-  '#header': RELATIVE_PATH + '_header.html',
-  '#footer': RELATIVE_PATH + '_footer.html'
+  '#header': RELATIVE_PATH + 'header.html',
+  '#footer': RELATIVE_PATH + 'footer.html'
 };
 
 var navigation = [
