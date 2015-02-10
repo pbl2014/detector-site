@@ -19,10 +19,6 @@ var navigation = [
     url: 'running.html'
   },
   {
-    name: 'First Demo',
-    url: 'demo.html'
-  },
-  {
     name: 'License',
     url: 'license.html'
   }
